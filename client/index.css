@@ -1,0 +1,102 @@
+/*Document wide styling*/
+html, body {
+    background: #cccccc;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+/* Navbar Styling */
+#header div {
+    background: #666666;
+    width: 98%;
+    height: 4%;
+    margin: 0px auto;
+}
+
+#header ul {
+    height:100%;
+    margin: 0px;
+}
+
+#header li {
+    display: inline-block;
+    margin: 0px;
+}
+
+#header li.logo {
+    font-size: 1.5em;
+}
+
+#header li.nav_button {
+    float: right;
+    line-height: 80%;
+    background: black;
+    border-radius: 5px;
+    border-style: outset;
+    margin: 0 1%;
+}
+#header li.nav_button.active {
+    background: #404040;
+    border-style: inset;
+}
+
+#header a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 5px 15px;
+}
+
+#content {
+    width: 100%;
+}
+
+/* Home Styling */
+#landing {
+    margin: 5% auto;
+    text-align: center;
+}
+.column {
+    margin: 0% 5%;
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+#users_nav li {
+    display: inline-block;
+    background: black;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border-style: outset;
+    margin: 0 5%;
+    cursor: pointer;
+
+}
+
+form {
+    width: 90%;
+    max-width: 370px;
+    margin: 0 auto;
+}
+
+form label {
+    float: left;
+}
+form span {
+    clear: both;
+    float: right;
+    font-size: .8em;
+}
+form input {
+    float: right;
+}
+form input[type='submit'] {
+    clear: both;
+}

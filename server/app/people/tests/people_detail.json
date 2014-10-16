@@ -1,0 +1,255 @@
+{
+ "bioguideid": "B001135", 
+ "birthday": "1955-11-30", 
+ "committeeassignments": [
+  {
+   "committee": 2638, 
+   "id": 162923, 
+   "person": 400054, 
+   "role": "ranking_member", 
+   "role_label": "Ranking Member"
+  }, 
+  {
+   "committee": 2622, 
+   "id": 163923, 
+   "person": 400054, 
+   "role": "member", 
+   "role_label": "Member"
+  }, 
+  {
+   "committee": 2814, 
+   "id": 163961, 
+   "person": 400054, 
+   "role": "member", 
+   "role_label": "Member"
+  }, 
+  {
+   "committee": 2658, 
+   "id": 164718, 
+   "person": 400054, 
+   "role": "ranking_member", 
+   "role_label": "Ranking Member"
+  }, 
+  {
+   "committee": 2623, 
+   "id": 164798, 
+   "person": 400054, 
+   "role": "member", 
+   "role_label": "Member"
+  }, 
+  {
+   "committee": 2635, 
+   "id": 165136, 
+   "person": 400054, 
+   "role": "member", 
+   "role_label": "Member"
+  }, 
+  {
+   "committee": 2860, 
+   "id": 165156, 
+   "person": 400054, 
+   "role": "member", 
+   "role_label": "Member"
+  }, 
+  {
+   "committee": 2665, 
+   "id": 166063, 
+   "person": 400054, 
+   "role": "member", 
+   "role_label": "Member"
+  }, 
+  {
+   "committee": 2621, 
+   "id": 166187, 
+   "person": 400054, 
+   "role": "member", 
+   "role_label": "Member"
+  }
+ ], 
+ "cspanid": 31054, 
+ "firstname": "Richard", 
+ "gender": "male", 
+ "gender_label": "Male", 
+ "id": 400054, 
+ "lastname": "Burr", 
+ "link": "https://www.govtrack.us/congress/members/richard_burr/400054", 
+ "middlename": "M.", 
+ "name": "Sen. Richard Burr [R-NC]", 
+ "namemod": "", 
+ "nickname": "", 
+ "osid": "N00002221", 
+ "pvsid": "21787", 
+ "roles": [
+  {
+   "congress_numbers": [
+    104
+   ], 
+   "current": false, 
+   "description": "Representative for North Carolina's 5th congressional district", 
+   "district": 5, 
+   "enddate": "1996-10-04", 
+   "id": 403, 
+   "leadership_title": null, 
+   "party": "Republican", 
+   "person": 400054, 
+   "phone": null, 
+   "role_type": "representative", 
+   "role_type_label": "Representative", 
+   "senator_class": null, 
+   "senator_rank": null, 
+   "startdate": "1995-01-04", 
+   "state": "NC", 
+   "title": "Rep.", 
+   "title_long": "Representative", 
+   "website": ""
+  }, 
+  {
+   "congress_numbers": [
+    105
+   ], 
+   "current": false, 
+   "description": "Representative for North Carolina's 5th congressional district", 
+   "district": 5, 
+   "enddate": "1998-12-19", 
+   "id": 404, 
+   "leadership_title": null, 
+   "party": "Republican", 
+   "person": 400054, 
+   "phone": null, 
+   "role_type": "representative", 
+   "role_type_label": "Representative", 
+   "senator_class": null, 
+   "senator_rank": null, 
+   "startdate": "1997-01-07", 
+   "state": "NC", 
+   "title": "Rep.", 
+   "title_long": "Representative", 
+   "website": ""
+  }, 
+  {
+   "congress_numbers": [
+    106
+   ], 
+   "current": false, 
+   "description": "Representative for North Carolina's 5th congressional district", 
+   "district": 5, 
+   "enddate": "2000-12-15", 
+   "id": 405, 
+   "leadership_title": null, 
+   "party": "Republican", 
+   "person": 400054, 
+   "phone": null, 
+   "role_type": "representative", 
+   "role_type_label": "Representative", 
+   "senator_class": null, 
+   "senator_rank": null, 
+   "startdate": "1999-01-06", 
+   "state": "NC", 
+   "title": "Rep.", 
+   "title_long": "Representative", 
+   "website": ""
+  }, 
+  {
+   "congress_numbers": [
+    107
+   ], 
+   "current": false, 
+   "description": "Representative for North Carolina's 5th congressional district", 
+   "district": 5, 
+   "enddate": "2002-11-22", 
+   "id": 406, 
+   "leadership_title": null, 
+   "party": "Republican", 
+   "person": 400054, 
+   "phone": null, 
+   "role_type": "representative", 
+   "role_type_label": "Representative", 
+   "senator_class": null, 
+   "senator_rank": null, 
+   "startdate": "2001-01-03", 
+   "state": "NC", 
+   "title": "Rep.", 
+   "title_long": "Representative", 
+   "website": ""
+  }, 
+  {
+   "congress_numbers": [
+    108
+   ], 
+   "current": false, 
+   "description": "Representative for North Carolina's 5th congressional district", 
+   "district": 5, 
+   "enddate": "2004-12-09", 
+   "id": 407, 
+   "leadership_title": null, 
+   "party": "Republican", 
+   "person": 400054, 
+   "phone": null, 
+   "role_type": "representative", 
+   "role_type_label": "Representative", 
+   "senator_class": null, 
+   "senator_rank": null, 
+   "startdate": "2003-01-07", 
+   "state": "NC", 
+   "title": "Rep.", 
+   "title_long": "Representative", 
+   "website": "http://www.house.gov/burr"
+  }, 
+  {
+   "congress_numbers": [
+    109, 
+    110, 
+    111
+   ], 
+   "current": false, 
+   "description": "Senator from North Carolina", 
+   "district": null, 
+   "enddate": "2010-12-22", 
+   "id": 408, 
+   "leadership_title": null, 
+   "party": "Republican", 
+   "person": 400054, 
+   "phone": null, 
+   "role_type": "senator", 
+   "role_type_label": "Senator", 
+   "senator_class": "class3", 
+   "senator_class_label": "Class 3", 
+   "senator_rank": null, 
+   "startdate": "2005-01-04", 
+   "state": "NC", 
+   "title": "Sen.", 
+   "title_long": "Senator", 
+   "website": "http://burr.senate.gov"
+  }, 
+  {
+   "congress_numbers": [
+    112, 
+    113, 
+    114
+   ], 
+   "current": true, 
+   "description": "Senior Senator from North Carolina", 
+   "district": null, 
+   "enddate": "2017-01-03", 
+   "id": 409, 
+   "leadership_title": null, 
+   "party": "Republican", 
+   "person": 400054, 
+   "phone": "202-224-3154", 
+   "role_type": "senator", 
+   "role_type_label": "Senator", 
+   "senator_class": "class3", 
+   "senator_class_label": "Class 3", 
+   "senator_rank": "senior", 
+   "senator_rank_label": "Senior", 
+   "startdate": "2011-01-05", 
+   "state": "NC", 
+   "title": "Sen.", 
+   "title_long": "Senator", 
+   "website": "http://www.burr.senate.gov"
+  }
+ ], 
+ "sortname": "Burr, Richard (Sen.) [R-NC]", 
+ "twitterid": "SenatorBurr", 
+ "youtubeid": "SenatorRichardBurr"
+}

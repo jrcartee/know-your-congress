@@ -1,0 +1,62 @@
+[
+{
+   "id": 1,
+   "status": 123456,
+   "sponsor": 123456,
+   "congress": 112,
+   "prefix": "S.",
+   "number": 2318,
+   "title": "Department of State Rewards Program Update and Technical Corrections Act of 2012",
+   "start": "2012-04-19",
+   "is_alive": false,
+   "is_current": false,
+   "law_num": 283,
+   "law_plublic": true,
+   "link": "http://thomas.loc.gov/cgi-bin/bdquery/z?d112:s2318:"
+},
+{
+   "id": 2,
+   "status": 123456,
+   "sponsor": 123456,
+   "congress": 112,
+   "prefix": "H.R.",
+   "number": 2318,
+   "title": "Foreign and Economic Espionage Penalty Enhancement Act of 2012",
+   "start": "2012-04-19",
+   "is_alive": false,
+   "is_current": false,
+   "law_num": 283,
+   "law_plublic": true,
+   "link": "http://thomas.loc.gov/cgi-bin/bdquery/z?d112:hr6029:"
+},
+{
+   "id": 3,
+   "status": 123456,
+   "sponsor": 123456,
+   "congress": 112,
+   "prefix": "S.",
+   "number": 2318,
+   "title": "Department of State Rewards Program Update and Technical Corrections Act of 2012",
+   "start": "2012-04-19",
+   "is_alive": false,
+   "is_current": false,
+   "law_num": 283,
+   "law_plublic": true,
+   "link": "http://thomas.loc.gov/cgi-bin/bdquery/z?d112:s2318:"
+},
+{
+   "id": 4,
+   "status": 123456,
+   "sponsor": 123456,
+   "congress": 112,
+   "prefix": "H.R.",
+   "number": 2318,
+   "title": "Foreign and Economic Espionage Penalty Enhancement Act of 2012",
+   "start": "2012-04-19",
+   "is_alive": false,
+   "is_current": false,
+   "law_num": 283,
+   "law_plublic": true,
+   "link": "http://thomas.loc.gov/cgi-bin/bdquery/z?d112:hr6029:"
+}
+]

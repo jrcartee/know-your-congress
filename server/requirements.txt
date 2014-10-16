@@ -1,0 +1,5 @@
+django==1.6
+djangorestframework
+django-cors-headers
+django-extensions
+ipython

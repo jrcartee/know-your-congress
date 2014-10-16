@@ -1,0 +1,178 @@
+/*  
+Example of data retireved from 
+https://www.govtrack.us/api/v2/bill/74369
+ */
+{
+ "bill_resolution_type": "bill", 
+ "bill_type": "house_bill", 
+ "bill_type_label": "H.R.", 
+ "committees": [
+  {
+   "abbrev": "O&GR", 
+   "code": "HSGO", 
+   "committee": null, 
+   "committee_type": "house", 
+   "committee_type_label": "House", 
+   "id": 2745, 
+   "jurisdiction": "The Committee on Oversight and Government Reform has legislative jurisdiction over the District of Columbia, the government procurement process, federal personnel systems, the Postal Service and other oversight matters across the government.", 
+   "jurisdiction_link": "http://oversight.house.gov/about-the-committee/", 
+   "name": "House Committee on Oversight and Government Reform", 
+   "obsolete": false, 
+   "url": "http://oversight.house.gov/"
+  }, 
+  {
+   "abbrev": "", 
+   "code": "HSGO30", 
+   "committee": 2745, 
+   "committee_type": null, 
+   "id": 2827, 
+   "jurisdiction": null, 
+   "jurisdiction_link": null, 
+   "name": "Technology, Information Policy, Intergovernmental Relations and Procurement Reform", 
+   "obsolete": true, 
+   "url": null
+  }
+ ], 
+ "congress": 112, 
+ "cosponsors": [], 
+ "current_status": "referred", 
+ "current_status_date": "2011-04-04", 
+ "current_status_description": "This bill was introduced on April 4, 2011, in a previous session of Congress, but was not enacted.", 
+ "current_status_label": "Referred to Committee", 
+ "display_number": "H.R. 1349", 
+ "docs_house_gov_postdate": null, 
+ "id": 74369, 
+ "introduced_date": "2011-04-04", 
+ "is_alive": false, 
+ "is_current": false, 
+ "link": "https://www.govtrack.us/congress/bills/112/hr1349", 
+ "major_actions": [
+  [
+   "datetime.datetime(2011, 4, 4, 0, 0)", 
+   2, 
+   "Referred to the House Committee on Oversight and Government Reform.", 
+   "<action datetime=\"2011-04-04\" state=\"REFERRED\">\n      <text>Referred to the House Committee on Oversight and Government Reform.</text>\n    </action>\n    "
+  ]
+ ], 
+ "noun": "bill", 
+ "number": 1349, 
+ "senate_floor_schedule_postdate": null, 
+ "sliplawnum": null, 
+ "sliplawpubpriv": null, 
+ "source": "thomas-congproj", 
+ "source_link": null, 
+ "sponsor": {
+  "bioguideid": "I000057", 
+  "birthday": "1958-05-30", 
+  "cspanid": 87911, 
+  "firstname": "Steve", 
+  "gender": "male", 
+  "gender_label": "Male", 
+  "id": 400195, 
+  "lastname": "Israel", 
+  "link": "https://www.govtrack.us/congress/members/steve_israel/400195", 
+  "middlename": "J.", 
+  "name": "Rep. Steve Israel [D-NY3]", 
+  "namemod": "", 
+  "nickname": "", 
+  "osid": "N00013345", 
+  "pvsid": "55440", 
+  "sortname": "Israel, Steve (Rep.) [D-NY3]", 
+  "twitterid": "RepSteveIsrael", 
+  "youtubeid": "repsteveisrael"
+ }, 
+ "sponsor_role": {
+  "congress_numbers": [
+   112
+  ], 
+  "current": false, 
+  "description": "Representative for New York's 2nd congressional district", 
+  "district": 2, 
+  "enddate": "2013-01-03", 
+  "id": 1593, 
+  "leadership_title": null, 
+  "party": "Democrat", 
+  "person": 400195, 
+  "phone": "202-225-3335", 
+  "role_type": "representative", 
+  "role_type_label": "Representative", 
+  "senator_class": null, 
+  "senator_rank": null, 
+  "startdate": "2011-01-05", 
+  "state": "NY", 
+  "title": "Rep.", 
+  "title_long": "Representative", 
+  "website": "http://www.house.gov/israel"
+ }, 
+ "terms": [
+  {
+   "id": 5905, 
+   "name": "Freedom of information", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6096, 
+   "name": "Government Operations and Politics", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6097, 
+   "name": "Administrative law and regulatory procedures", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6098, 
+   "name": "Advisory bodies", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6113, 
+   "name": "Government information and archives", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6256, 
+   "name": "Civil actions and liability", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6267, 
+   "name": "Legal fees and court costs", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6305, 
+   "name": "Internet and video services", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 6700, 
+   "name": "Office of Management and Budget (OMB)", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }
+ ], 
+ "thomas_link": "http://thomas.loc.gov/cgi-bin/bdquery/z?d112:hr1349:", 
+ "title": "H.R. 1349 (112th): Public Online Information Act of 2011", 
+ "title_without_number": "Public Online Information Act of 2011", 
+ "titles": [
+  [
+   "short", 
+   "introduced", 
+   "Public Online Information Act of 2011"
+  ], 
+  [
+   "official", 
+   "introduced", 
+   "To establish an advisory committee to issue nonbinding governmentwide guidelines on making public information available on the Internet, to require publicly available Government information held by the executive branch to be made available on the Internet, to express the sense of Congress that publicly available information held by the legislative and judicial branches should be available on the Internet, and for other purposes."
+  ]
+ ]
+}

@@ -1,0 +1,53 @@
+[{
+      "id": 1,
+      "full_name": "Mark Begich",
+      "birth": "1962-03-30",
+      "twitter": "SenatorBegich",
+      "youtube": "USSenatorMarkBegich",
+      "website": "http://www.begich.senate.gov",
+      "role_type": "Senator",
+      "senator_class": "class2",
+      "startdate": "2009-01-06",
+      "state": "AK",
+      "phone": "202-224-3004"
+    },
+    {
+      "id": 2,
+      "full_name": "Mark Begich",
+      "birth": "1962-03-30",
+      "twitter": "SenatorBegich",
+      "youtube": "USSenatorMarkBegich",
+      "website": "http://www.begich.senate.gov",
+      "role_type": "Senator",
+      "senator_class": "class2",
+      "startdate": "2009-01-06",
+      "state": "AK",
+      "phone": "202-224-3004"
+    },
+    {
+      "id": 3,
+      "full_name": "Mark Begich",
+      "birth": "1962-03-30",
+      "twitter": "SenatorBegich",
+      "youtube": "USSenatorMarkBegich",
+      "website": "http://www.begich.senate.gov",
+      "role_type": "Senator",
+      "senator_class": "class2",
+      "startdate": "2009-01-06",
+      "state": "AK",
+      "phone": "202-224-3004"
+    },
+    {
+      "id": 4,
+      "full_name": "Mark Begich",
+      "birth": "1962-03-30",
+      "twitter": "SenatorBegich",
+      "youtube": "USSenatorMarkBegich",
+      "website": "http://www.begich.senate.gov",
+      "role_type": "Senator",
+      "senator_class": "class2",
+      "startdate": "2009-01-06",
+      "state": "AK",
+      "phone": "202-224-3004"
+    }
+]
