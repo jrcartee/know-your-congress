@@ -1,0 +1,47 @@
+[
+{
+	"fields": {
+		"person": 1,
+		"party": "R",
+		"role_type": "S",
+		"state": "AL",
+		"phone": "123-456-7890",
+		"website": null,
+		"current": true,
+		"start": "2014-01-01",
+		"extra": 1
+	},
+	"model": "people.Role",
+	"pk": 1
+},
+{
+	"fields": {
+		"person": 2,
+		"party": "D",
+		"role_type": "R",
+		"state": "AL",
+		"phone": "123-456-7890",
+		"website": null,
+		"current": true,
+		"start": "2014-01-01",
+		"extra": 2
+	},
+	"model": "people.Role",
+	"pk": 2
+},
+{
+	"fields": {
+		"person": 3,
+		"party": "I",
+		"role_type": "S",
+		"state": "AL",
+		"phone": "123-456-7890",
+		"website": null,
+		"current": true,
+		"start": "2014-01-01",
+		"extra": 3
+	},
+	"model": "people.Role",
+	"pk": 3
+}
+]

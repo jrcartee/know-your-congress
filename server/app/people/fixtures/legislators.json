@@ -1,0 +1,38 @@
+[
+{
+	"fields": {
+		"first": "George",
+		"middle": "Walker",
+		"last": "Bush",
+		"birth": "1960-01-01",
+		"twitter": null,
+		"youtube": null
+	},
+	"model": "people.Legislator",
+	"pk": 1
+},
+{
+	"fields": {
+		"first": "Dick",
+		"middle": null,
+		"last": "Cheney",
+		"birth": "1960-01-01",
+		"twitter": null,
+		"youtube": null
+	},
+	"model": "people.Legislator",
+	"pk": 2
+},
+{
+	"fields": {
+		"first": "George",
+		"middle": "Walker",
+		"last": "Bush",
+		"birth": "1960-01-01",
+		"twitter": null,
+		"youtube": null
+	},
+	"model": "people.Legislator",
+	"pk": 3
+},
+]

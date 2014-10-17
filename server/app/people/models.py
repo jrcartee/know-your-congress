@@ -17,7 +17,7 @@ class Role(models.Model):
 
     state = models.CharField(max_length=2)
     phone = models.CharField(max_length=12)
-    website = models.URLField()
+    website = models.URLField(null=True)
     current = models.BooleanField()
     start = models.DateField()
     end = models.DateField(null=True)
@@ -54,11 +54,11 @@ class Role(models.Model):
 
 class Legislator(models.Model):
     first = models.CharField(max_length=20)
-    middle = models.CharField(max_length=20)
+    middle = models.CharField(max_length=20, null=True)
     last = models.CharField(max_length=20)
     birth = models.DateField()
-    twitter = models.CharField(max_length=40)
-    youtube = models.CharField(max_length=40)
+    twitter = models.CharField(max_length=40, null=True)
+    youtube = models.CharField(max_length=40, null=True)
 
     def full_name(self):
         name = self.first

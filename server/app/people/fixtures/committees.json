@@ -1,0 +1,23 @@
+[
+{
+	"fields": {
+
+	},
+	"model": "people.Committee",
+	"pk": 1
+},
+{
+	"fields": {
+
+	},
+	"model": "people.Committee",
+	"pk": 2
+},
+{
+	"fields": {
+
+	},
+	"model": "people.Committee",
+	"pk": 3
+},
+]

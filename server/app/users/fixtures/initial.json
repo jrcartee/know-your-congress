@@ -1,0 +1,50 @@
+[
+{
+    "fields": {
+        "date_joined": "2014-10-16",
+        "email": "test@inbox.com",
+        "first_name": "Joe",
+        "groups": [],
+        "is_staff": false,
+        "is_superuser": false,
+        "last_login": "2014-10-16T08:21:49.543Z",
+        "last_name": "Schmo",
+        "password": "pbkdf2_sha256$12000$ViQdvw90maIv$3IlRoiuTLh1NcsdiD9BltDBe8lH7Hg9jidBWFIKe3W0=",
+        "user_permissions": []
+    },
+    "model": "users.user",
+    "pk": 1
+},
+ {
+    "fields": {
+        "date_joined": "2014-10-16",
+        "email": "new@inbox.com",
+        "first_name": "John",
+        "groups": [],
+        "is_staff": false,
+        "is_superuser": false,
+        "last_login": "2014-10-16T13:42:58.283Z",
+        "last_name": "Doe",
+        "password": "pbkdf2_sha256$12000$K5rxHJJaj6Jm$MNFl3rZGe/ubEyOByl3U8BFdfAgYTDvlPRo2tOcEu+g=",
+        "user_permissions": []
+    },
+    "model": "users.user",
+    "pk": 2
+},
+{
+    "fields": {
+        "created": "2014-10-16T08:26:44.928Z",
+        "user": 1
+    },
+    "model": "authtoken.token",
+    "pk": "99deb9541f0f39306e94b8fe846ee01ef91e469a"
+},
+{
+    "fields": {
+        "created": "2014-10-16T13:42:58.594Z",
+        "user": 2
+    },
+    "model": "authtoken.token",
+    "pk": "fa79e4b1cd4dce5db917e3290b65093794aa92f8"
+}
+]
